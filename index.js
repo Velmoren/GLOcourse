@@ -13,3 +13,5 @@ console.log(thirdVar);
 console.log(thirdVar);
 console.log(thirdVar);
 console.log(thirdVar);
+console.log(thirdVar);
+console.log(thirdVar);
