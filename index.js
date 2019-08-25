@@ -6,4 +6,4 @@ const first = 1,
 
 let firstVar,
     secondVar,
-    thirdVar;
+    thirdVar = 1000000;
