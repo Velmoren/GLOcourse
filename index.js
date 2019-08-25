@@ -7,3 +7,9 @@ const first = 1,
 let firstVar,
     secondVar,
     thirdVar = 1000000;
+
+console.log(thirdVar);
+console.log(thirdVar);
+console.log(thirdVar);
+console.log(thirdVar);
+console.log(thirdVar);
