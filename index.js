@@ -9,9 +9,3 @@ let firstVar,
     thirdVar = 1000000;
 
 console.log(thirdVar);
-console.log(thirdVar);
-console.log(thirdVar);
-console.log(thirdVar);
-console.log(thirdVar);
-console.log(thirdVar);
-console.log(thirdVar);
