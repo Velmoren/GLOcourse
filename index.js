@@ -10,4 +10,5 @@ let firstVar = 'My first var',
 
 if (firstVar) {
     console.log(firstVar);
+    console.log(second);
 }
